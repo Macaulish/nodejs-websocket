@@ -29,6 +29,9 @@ HTML5+NodeJs实现WebSocket即时通讯
 `npm init    （这一步初始化的作用就是新建一个package.json文件用以保存配置文件信息）`
 当然也可用npm init -f(这里的-f是强制安装，不然就会让你输入好多信息，诸如项目名，版本信息等等..可参考https://segmentfault.com/q/1010000012930521)
 
+4，安装插件：
+`npm install nodejs-websocket`
+
 4，新建一个三个文件，内容复制本项目中webpack.js，game1.html，game2.html文件内容
 
 5，之后在本项目文件夹下运行nodejs服务器
