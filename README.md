@@ -5,7 +5,7 @@ HTML5+NodeJs实现WebSocket即时通讯
 使用方法：
 一、你可以使用git clone方法：
 # 1，首先需要把项目clone到本地:
-git clone git@github.com:Macaulish/nodejs-websocket.git
+`git clone git@github.com:Macaulish/nodejs-websocket.git`
 # 2，之后cd进项目目录(这里是nodejs-websocket)
 cd nodejs-websocket
 # 3，npm按照package.json安装相关插件
